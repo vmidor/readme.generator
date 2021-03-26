@@ -1,7 +1,5 @@
 # readme.generator
-# readme-generator
-![screenshopt of the app](develop/pic/gif)
-
+![screenshopt of the app](develop/pic.gif)
 ## User Story
 
 ```md
