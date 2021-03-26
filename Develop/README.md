@@ -22,5 +22,5 @@
   The application is licensed by MIT license
 
 ## Questions
-📧 Please email me at <victoria.pushenko@yahoo.com>.  Check my work at [vmidor](https://github.com/vmidor/README-Generator).
+📧 Please email me at <victoria.pushenko@yahoo.com>.  Check my work at [vmidor](https://github.com/vmidor/readme.generator).
     
