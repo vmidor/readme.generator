@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vmidor/readme-generator.git"
+    "url": "git+https://github.com/vmidor/readme.generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vmidor/readme-generator/issues"
+    "url": "https://github.com/vmidor/readme.generator/issues"
   },
-  "homepage": "https://github.com/vmidor/readme-generator#readme",
+  "homepage": "https://github.com/vmidor/readme.generator#readme",
   "dependencies": {
     "inquirer": "^8.0.0"
   }
